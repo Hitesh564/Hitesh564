@@ -1,37 +1,38 @@
 <!-- =========================================================
-                       H I T E S H   J I N D A L
-                         GitHub Profile README
+                      H I T E S H   J I N D A L
+                  AI • SYSTEMS • ENGINEERING
 ========================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090909,45:111111,100:1c1812&text=HITESH%20JINDAL&fontColor=E8D7B0&fontSize=52&fontAlignY=38&desc=ENGINEERING%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=57&animation=fadeIn"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:080808,35:111111,70:17130E,100:2A2115&text=HITESH%20JINDAL&fontColor=E8D7B0&fontSize=54&fontAlignY=37&desc=ENGINEERING%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=57&animation=fadeIn"/>
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=C8A96B&center=true&vCenter=true&width=850&height=45&lines=Building+AI+systems+that+reason%2C+adapt%2C+and+ship.;Designing+agents+that+can+be+measured+%E2%80%94+not+just+demoed.;From+model+intelligence+to+production+systems.;AI+Engineering+%C3%97+Software+Systems+%C3%97+Product."
-  alt="Typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=C8A96B&center=true&vCenter=true&width=900&height=50&lines=Building+AI+systems+that+reason%2C+adapt%2C+and+ship.;Designing+agents+that+can+be+measured+%E2%80%94+not+just+demoed.;Turning+model+intelligence+into+production+systems.;AI+Engineering+%C3%97+Software+Systems+%C3%97+Product."
+alt="Typing animation"
 />
 
 <br/>
 
 <sub>
-  AI SYSTEMS &nbsp;·&nbsp; AGENTIC INFRASTRUCTURE &nbsp;·&nbsp; REAL-TIME AI &nbsp;·&nbsp; SOFTWARE ENGINEERING
+AI SYSTEMS &nbsp;·&nbsp; AGENTIC INFRASTRUCTURE &nbsp;·&nbsp; REAL-TIME AI &nbsp;·&nbsp; SOFTWARE ENGINEERING
 </sub>
 
 <br/><br/>
 
 <a href="https://veriq-flax.vercel.app">
-  <img src="https://img.shields.io/badge/VIEW%20VERIQ-LIVE-E8D7B0?style=for-the-badge&labelColor=111111&color=C8A96B"/>
+<img src="https://img.shields.io/badge/VIEW%20VERIQ-LIVE-C8A96B?style=for-the-badge&labelColor=111111"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/hitesh-jindal56/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-E8D7B0?style=for-the-badge&logo=linkedin&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-242424?style=for-the-badge&logo=linkedin&logoColor=E8D7B0&labelColor=111111"/>
 </a>
 &nbsp;
 <a href="mailto:jindalhitesh564@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-E8D7B0?style=for-the-badge&logo=gmail&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-242424?style=for-the-badge&logo=gmail&logoColor=E8D7B0&labelColor=111111"/>
 </a>
 
 </div>
@@ -40,192 +41,275 @@
 
 ---
 
-## `01. PROFILE`
-
-```yaml
-name: Hitesh Jindal
-based_at: Plaksha University, India
-
-building:
-  - intelligent AI products
-  - agent evaluation infrastructure
-  - real-time LLM systems
-
-interested_in:
-  - AI Engineering
-  - Agentic Systems
-  - AI Evaluation & Reliability
-  - Backend / Systems Engineering
-  - Applied Machine Learning
-
-philosophy:
-  "Build → Measure → Understand → Improve → Ship"
-```
-
-I’m a **Computer Science & Artificial Intelligence undergraduate at Plaksha University** interested in engineering AI systems that work beyond controlled demos.
-
-My work lies at the intersection of **LLM agents, evaluation, real-time AI, backend architecture, retrieval systems, and applied machine learning**.
-
-What interests me most isn't simply getting a model to generate the right response. It's designing everything around that model:
-
-> **state · memory · orchestration · evaluation · tools · latency · reliability · product experience**
-
-I like taking an idea from an architecture diagram to something people can actually use.
-
----
+# `01. PROFILE`
 
 <div align="center">
 
-### `CURRENTLY BUILDING`
-
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   VERIQ        → Adaptive AI Interview Intelligence               │
-│   AGENTEVAL    → Failure Diagnosis for LLM Agents                 │
-│                                                                   │
-│   CURRENT      → AI Reliability · Real-Time Systems · Agents      │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
+### Building intelligent systems that survive beyond the demo.
 
 </div>
 
----
-
-## `02. SELECTED WORK`
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Veriq
-#### AI Interview Intelligence
+### ◈ ENGINEERING
 
-A real-time AI interviewer designed around **adaptive questioning, evidence collection, voice interaction and structured candidate evaluation**.
+I’m **Hitesh Jindal**, a Computer Science & Artificial Intelligence undergraduate at **Plaksha University**.
 
-Instead of following a fixed question bank, Veriq decides how deeply to explore a topic based on the evolving interview context.
+I enjoy building AI products where the difficult part is not simply calling a model API, but designing the surrounding system.
 
-**Engineering**
+My work currently sits around:
 
-`LangGraph` `FastAPI` `Next.js`  
-`PostgreSQL` `Supabase` `Gemini`
-
-**Core systems**
-
-- Multi-stage interview orchestration
-- Context-aware follow-ups
-- Claim verification
-- Persistent interview state
-- Evidence-grounded scoring
-- Voice-first interviewing
-
-<br/>
-
-<a href="https://github.com/Hitesh564/Veriq">
-<img src="https://img.shields.io/badge/SOURCE-111111?style=flat-square&logo=github&logoColor=C8A96B"/>
-</a>
-<a href="https://veriq-flax.vercel.app">
-<img src="https://img.shields.io/badge/LIVE-C8A96B?style=flat-square&logo=vercel&logoColor=111111"/>
-</a>
+- AI engineering
+- agentic systems
+- real-time AI
+- backend architecture
+- AI evaluation
+- applied machine learning
 
 </td>
 
 <td width="50%" valign="top">
 
-### ◈ AgentEval
-#### Causal Failure Diagnosis for LLM Agents
+### ◈ SYSTEMS THINKING
 
-An evaluation system for understanding **why multi-step LLM-agent workflows fail**, rather than reporting only whether they succeeded.
+The parts of AI systems I find most interesting are:
 
-It analyzes execution traces, node health and dependency relationships to identify likely failure contributors.
+- state & memory
+- orchestration
+- retrieval
+- evaluation
+- latency
+- observability
+- reliability
+- product experience
 
-**Engineering**
+I like moving from:
 
-`Python` `FastAPI` `LangChain`  
-`PostgreSQL` `LiteLLM`
-
-**Evaluation**
-
-- Trace-based diagnosis
-- Dependency-aware attribution
-- Automated benchmarking
-- Failure localization
-- Remediation insights
-
-**Benchmark**
-
-`73.3% accuracy`  
-`76.2% balanced accuracy`
-
-<br/>
-
-<a href="https://github.com/Hitesh564/AgentEval">
-<img src="https://img.shields.io/badge/SOURCE-111111?style=flat-square&logo=github&logoColor=C8A96B"/>
-</a>
+**idea → architecture → implementation → evaluation → deployment**
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+
+### `BUILD → MEASURE → UNDERSTAND → IMPROVE → SHIP`
+
+</div>
+
+<br/>
+
+> **My goal is not just to make AI generate good outputs — it is to engineer systems that behave reliably, adapt to context, and create measurable value.**
+
 ---
 
-## `03. RESEARCH × APPLIED ML`
+# `02. CURRENT SIGNAL`
 
-### ◈ Explainable Retinal Age Gap
+<div align="center">
 
-Built an explainable retinal-age estimation pipeline combining **RETFound / Vision Transformers, vascular biomarkers, XGBoost and SHAP**.
+<table>
+<tr>
 
-```text
-23K+ Retinal Images
-       │
-       ▼
- Image Preprocessing
-       │
-       ├──── RETFound / ViT ──────────────┐
-       │                                   │
-       └──── Vessel Segmentation           │
-                    │                      │
-                    ▼                      │
-            Vascular Biomarkers            │
-                    │                      │
-                    ▼                      ▼
-                  XGBoost ───────────► Retinal Age
-                                      +
-                                   Explanation
+<td align="center" width="33%">
+
+### `BUILDING`
+
+**Adaptive AI Systems**
+
+Stateful agents, contextual reasoning, real-time interaction.
+
+</td>
+
+<td align="center" width="33%">
+
+### `MEASURING`
+
+**AI Reliability**
+
+Evaluation, failure diagnosis, benchmarking, evidence.
+
+</td>
+
+<td align="center" width="33%">
+
+### `LEARNING`
+
+**Systems at Scale**
+
+Distributed systems, backend scalability, observability.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `03. SELECTED WORK`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## ◈ Veriq
+
+### AI Interview Intelligence Platform
+
+A real-time AI interviewer designed around **adaptive questioning, contextual follow-ups, voice interaction, evidence collection, and structured evaluation**.
+
+Instead of following a static question bank, Veriq maintains interview state and decides how deeply to explore a topic based on candidate responses.
+
+### Core Engineering
+
+- Multi-stage interview orchestration
+- Context-aware follow-ups
+- Multi-turn claim verification
+- Persistent interview state
+- Evidence-grounded scoring
+- Voice-first interaction
+- Resume / JD / role-aware interviews
+
+### Stack
+
+`LangGraph` `FastAPI` `Next.js`  
+`TypeScript` `PostgreSQL` `Supabase` `Gemini`
+
+<br/>
+
+<a href="https://github.com/Hitesh564/Veriq">
+<img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=C8A96B"/>
+</a>
+
+<a href="https://veriq-flax.vercel.app">
+<img src="https://img.shields.io/badge/LIVE-C8A96B?style=for-the-badge&logo=vercel&logoColor=111111"/>
+</a>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+## ◈ AgentEval
+
+### Failure Diagnosis for LLM Agents
+
+An evaluation framework for understanding **why multi-step LLM-agent workflows fail**, rather than only reporting whether they succeeded.
+
+AgentEval analyzes execution traces, node-level health signals, and dependency relationships to identify probable failure contributors.
+
+### Core Engineering
+
+- Trace-based evaluation
+- Dependency-aware attribution
+- Root-cause localization
+- Failure remediation insights
+- Automated benchmarking
+- External benchmark validation
+
+### Benchmark
+
+**73.3% Accuracy**  
+**76.2% Balanced Accuracy**
+
+### Stack
+
+`Python` `FastAPI` `LangChain`  
+`PostgreSQL` `LiteLLM`
+
+<br/>
+
+<a href="https://github.com/Hitesh564/AgentEval">
+<img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=C8A96B"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `04. RESEARCH × APPLIED ML`
+
+## ◈ Explainable Retinal Age Gap
+
+Built an explainable retinal-age estimation pipeline using **RETFound / Vision Transformers, vascular biomarkers, XGBoost, and SHAP**.
+
+Worked across **23K+ retinal images** from ODIR-5K and BRSET.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables': {
+  'primaryColor':'#141414',
+  'primaryTextColor':'#E8D7B0',
+  'primaryBorderColor':'#C8A96B',
+  'lineColor':'#C8A96B',
+  'secondaryColor':'#191919',
+  'tertiaryColor':'#111111',
+  'background':'#0D0D0D',
+  'fontFamily':'JetBrains Mono'
+}}}%%
+flowchart LR
+
+    A["23K+ Retinal Images"] --> B["Preprocessing"]
+
+    B --> C["RETFound / ViT"]
+    B --> D["Vessel Analysis"]
+
+    D --> E["Vascular Biomarkers"]
+
+    C --> F["Representation"]
+    E --> G["XGBoost"]
+
+    F --> H["Retinal Age"]
+    G --> H
+
+    H --> I["Explainability / SHAP"]
 ```
 
 `PyTorch` · `RETFound` · `OpenCV` · `XGBoost` · `SHAP`
 
 ---
 
-## `04. ENGINEERING STACK`
+# `05. ENGINEERING STACK`
 
 <div align="center">
 
-### Intelligence
+### INTELLIGENCE
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
+
+<br/>
 
 `LLMs` · `LangChain` · `LangGraph` · `RAG` · `Hugging Face` · `Gemini` · `Agentic AI`
 
 <br/><br/>
 
-### Systems
+### SYSTEMS & DATA
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,supabase,docker&theme=dark"/>
 
-`REST` · `WebSockets` · `SQLModel` · `SQLAlchemy` · `Vector Search`
+<br/>
+
+`REST APIs` · `WebSockets` · `SQLModel` · `SQLAlchemy` · `Vector Search`
 
 <br/><br/>
 
-### Interface
+### INTERFACE
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,html,css&theme=dark"/>
 
 <br/><br/>
 
-### Engineering
+### ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,vercel&theme=dark"/>
 
@@ -233,71 +317,255 @@ Built an explainable retinal-age estimation pipeline combining **RETFound / Visi
 
 ---
 
-## `05. HOW I BUILD`
-
-```mermaid
-flowchart LR
-    P["Problem"] --> A["Architecture"]
-    A --> I["Intelligence"]
-    I --> S["System"]
-    S --> E["Evaluation"]
-    E --> D["Deploy"]
-    D --> O["Observe"]
-    O --> A
-```
-
-The model is only one component.
-
-A production AI system also needs:
-
-```text
-                        AI PRODUCT
-                            │
-           ┌────────────────┼────────────────┐
-           │                │                │
-           ▼                ▼                ▼
-      INTELLIGENCE        SYSTEM          PRODUCT
-           │                │                │
-       Models / LLM      State / DB       UX / Latency
-       Retrieval         APIs             Feedback
-       Reasoning         Memory           Reliability
-           │                │                │
-           └────────────────┼────────────────┘
-                            │
-                            ▼
-                       EVALUATION
-```
-
----
-
-## `06. CURRENT EXPLORATIONS`
-
-```diff
-+ LLM agent evaluation & reliability
-+ Stateful and adaptive AI systems
-+ Real-time voice intelligence
-+ Retrieval & context engineering
-+ Production LLM architecture
-+ System design for AI products
-
-> Going deeper:
-  distributed systems
-  backend scalability
-  AI observability
-  agent failure analysis
-```
-
----
-
-## `07. GITHUB`
+# `06. HOW I BUILD`
 
 <div align="center">
 
-<img height="175"
-src="https://github-readme-stats.vercel.app/api?username=Hitesh564&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8A96B&icon_color=C8A96B&text_color=D6D6D6&ring_color=C8A96B"/>
+### From a problem to a system that can be measured.
 
-<img height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh564&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C8A96B&text_color=D6D6D6"/>
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables': {
+  'primaryColor':'#141414',
+  'primaryTextColor':'#E8D7B0',
+  'primaryBorderColor':'#C8A96B',
+  'lineColor':'#C8A96B',
+  'secondaryColor':'#191919',
+  'tertiaryColor':'#111111',
+  'background':'#0D0D0D',
+  'fontFamily':'JetBrains Mono'
+}}}%%
+flowchart LR
+
+    A["01 · Problem"] --> B["02 · Architecture"]
+    B --> C["03 · Intelligence"]
+    C --> D["04 · System"]
+    D --> E["05 · Evaluation"]
+    E --> F["06 · Deploy"]
+    F --> G["07 · Observe"]
+    G --> B
+```
+
+<br/>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ◈ Intelligence Layer
+
+- LLMs / models
+- retrieval
+- reasoning
+- prompting
+- agents
+- context
+
+</td>
+
+<td width="33%" valign="top">
+
+### ◈ Systems Layer
+
+- APIs
+- state
+- memory
+- databases
+- orchestration
+- reliability
+
+</td>
+
+<td width="33%" valign="top">
+
+### ◈ Product Layer
+
+- latency
+- UX
+- feedback loops
+- observability
+- evaluation
+- real users
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### `MODEL ≠ PRODUCT`
+
+A useful AI product is the combination of:
+
+`INTELLIGENCE × SYSTEMS × EVALUATION × EXPERIENCE`
+
+</div>
+
+---
+
+# `07. CURRENT EXPLORATIONS`
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ◈ NOW
+
+### Systems I’m actively exploring
+
+**Agent Evaluation & Reliability**  
+Understanding why agent workflows fail and how to measure them.
+
+**Adaptive AI Systems**  
+Maintaining state, context, memory, and dynamic behavior over long-running interactions.
+
+**Real-Time AI**  
+Reducing latency across speech, inference, orchestration, and response pipelines.
+
+**Context Engineering**  
+Retrieval, memory, prompt construction, and information selection.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ◈ NEXT DEPTH
+
+### Areas I’m going deeper into
+
+**Distributed Systems**  
+Coordination, consistency, scaling, and failure.
+
+**Backend Scalability**  
+Designing systems that survive increased load and complexity.
+
+**AI Observability**  
+Understanding what intelligent systems are doing internally.
+
+**Agent Failure Analysis**  
+Tracing failures across multi-step AI workflows.
+
+**Evaluation Methodology**  
+Moving beyond anecdotal quality toward measurable performance.
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+```text
+CURRENT MODE
+
+BUILD SYSTEMS THAT CAN
+THINK  ·  ADAPT  ·  FAIL  ·  BE MEASURED  ·  IMPROVE
+```
+
+</div>
+
+---
+
+# `08. ENGINEERING VIEW`
+
+```mermaid
+%%{init: {'theme':'base','themeVariables': {
+  'primaryColor':'#141414',
+  'primaryTextColor':'#E8D7B0',
+  'primaryBorderColor':'#C8A96B',
+  'lineColor':'#C8A96B',
+  'secondaryColor':'#191919',
+  'tertiaryColor':'#111111',
+  'background':'#0D0D0D',
+  'fontFamily':'JetBrains Mono'
+}}}%%
+flowchart TB
+
+    A["AI PRODUCT"]
+
+    A --> B["INTELLIGENCE"]
+    A --> C["SYSTEM"]
+    A --> D["EXPERIENCE"]
+
+    B --> B1["Models"]
+    B --> B2["Retrieval"]
+    B --> B3["Reasoning"]
+
+    C --> C1["State"]
+    C --> C2["Memory"]
+    C --> C3["APIs"]
+    C --> C4["Data"]
+
+    D --> D1["UX"]
+    D --> D2["Latency"]
+    D --> D3["Feedback"]
+    D --> D4["Reliability"]
+
+    B --> E["EVALUATION"]
+    C --> E
+    D --> E
+
+    E --> F["OBSERVE"]
+    F --> G["IMPROVE"]
+    G --> A
+```
+
+<div align="center">
+
+### The model is one component.
+
+The system around it determines whether it becomes a **demo** or a **product**.
+
+</div>
+
+---
+
+# `09. GITHUB`
+
+<div align="center">
+
+### Code tells one part of the story.
+
+<br/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hitesh564&theme=github_dark"
+width="95%"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hitesh564&theme=github_dark"
+height="170"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hitesh564&theme=github_dark"
+height="170"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hitesh564&theme=github_dark"
+height="170"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hitesh564&theme=github_dark&utcOffset=5.5"
+height="170"
+/>
 
 </div>
 
@@ -306,7 +574,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh564&la
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh564&bg_color=0D0D0D&color=C8A96B&line=C8A96B&point=F4E5C2&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh564&bg_color=0D0D0D&color=C8A96B&line=C8A96B&point=F1DFB8&area=true&area_color=2A2115&hide_border=true"
 width="96%"
 />
 
@@ -314,57 +582,101 @@ width="96%"
 
 ---
 
-## `08. PRINCIPLES`
+# `10. PRINCIPLES`
 
 <div align="center">
 
-### `BUILD SYSTEMS — NOT WRAPPERS.`
+## `BUILD SYSTEMS — NOT WRAPPERS.`
 
-**Measure what the AI does.**  
-**Understand how it fails.**  
-**Design for uncertainty.**  
-**Ship what people can actually use.**
+<br/>
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### MEASURE
+
+what the AI  
+actually does
+
+</td>
+
+<td align="center" width="25%">
+
+### UNDERSTAND
+
+how and why  
+it fails
+
+</td>
+
+<td align="center" width="25%">
+
+### DESIGN
+
+for uncertainty  
+and change
+
+</td>
+
+<td align="center" width="25%">
+
+### SHIP
+
+what people  
+can actually use
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## `09. OPEN CHANNEL`
+# `11. OPEN CHANNEL`
 
 <div align="center">
 
-Interested in **AI systems, agents, evaluation, ML engineering, or building ambitious software?**
+### Interested in AI systems, agents, evaluation, ML engineering, or ambitious software?
 
 <br/>
 
 <a href="mailto:jindalhitesh564@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-E8D7B0?style=for-the-badge&logo=gmail&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-242424?style=for-the-badge&logo=gmail&logoColor=E8D7B0&labelColor=111111"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/hitesh-jindal56/">
-<img src="https://img.shields.io/badge/LINKEDIN-E8D7B0?style=for-the-badge&logo=linkedin&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-242424?style=for-the-badge&logo=linkedin&logoColor=E8D7B0&labelColor=111111"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/Hitesh564">
-<img src="https://img.shields.io/badge/GITHUB-E8D7B0?style=for-the-badge&logo=github&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-242424?style=for-the-badge&logo=github&logoColor=E8D7B0&labelColor=111111"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hitesh564&label=VISITORS&color=C8A96B&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Hitesh564&label=PROFILE+VISITORS&color=C8A96B&style=flat-square"/>
 
-</div>
+<br/><br/><br/>
 
-<br/>
+`INTELLIGENCE × ENGINEERING × EXECUTION`
 
-<div align="center">
-
-```text
-INTELLIGENCE × ENGINEERING × EXECUTION
-```
+<br/><br/>
 
 <i>Learning by building. Improving by measuring. Shipping by iterating.</i>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1c1812,45:111111,100:090909"/>
+<br/>
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2A2115,40:17130E,70:111111,100:080808"/>
