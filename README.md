@@ -1,115 +1,168 @@
-<!-- =========================
-     HERO
-========================= -->
+<!-- =========================================================
+                       H I T E S H   J I N D A L
+                         GitHub Profile README
+========================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Hitesh%20Jindal&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Builder%20%7C%20Agentic%20Systems&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+reason%2C+adapt%2C+and+ship.;LLM+Agents+%E2%80%A2+Real-Time+AI+%E2%80%A2+Full-Stack+Engineering;Turning+research+ideas+into+working+products."
-    alt="Typing SVG"
-  />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090909,45:111111,100:1c1812&text=HITESH%20JINDAL&fontColor=E8D7B0&fontSize=52&fontAlignY=38&desc=ENGINEERING%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=57&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://github.com/Hitesh564">
-    <img src="https://komarev.com/ghpvc/?username=Hitesh564&style=for-the-badge&label=PROFILE+VIEWS" />
-  </a>
-  <a href="https://www.linkedin.com/in/hitesh-jindal56/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jindalhitesh564@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=C8A96B&center=true&vCenter=true&width=850&height=45&lines=Building+AI+systems+that+reason%2C+adapt%2C+and+ship.;Designing+agents+that+can+be+measured+%E2%80%94+not+just+demoed.;From+model+intelligence+to+production+systems.;AI+Engineering+%C3%97+Software+Systems+%C3%97+Product."
+  alt="Typing animation"
+/>
+
+<br/>
+
+<sub>
+  AI SYSTEMS &nbsp;·&nbsp; AGENTIC INFRASTRUCTURE &nbsp;·&nbsp; REAL-TIME AI &nbsp;·&nbsp; SOFTWARE ENGINEERING
+</sub>
+
+<br/><br/>
+
+<a href="https://veriq-flax.vercel.app">
+  <img src="https://img.shields.io/badge/VIEW%20VERIQ-LIVE-E8D7B0?style=for-the-badge&labelColor=111111&color=C8A96B"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hitesh-jindal56/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-E8D7B0?style=for-the-badge&logo=linkedin&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+</a>
+&nbsp;
+<a href="mailto:jindalhitesh564@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-E8D7B0?style=for-the-badge&logo=gmail&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-## About Me
+## `01. PROFILE`
 
-I'm **Hitesh Jindal**, a Computer Science & Artificial Intelligence undergraduate at **Plaksha University**, interested in building intelligent systems that go beyond demos and work as real products.
+```yaml
+name: Hitesh Jindal
+based_at: Plaksha University, India
 
-My work sits at the intersection of **AI engineering, agentic systems, backend architecture, real-time applications, and applied machine learning**.
+building:
+  - intelligent AI products
+  - agent evaluation infrastructure
+  - real-time LLM systems
 
-I enjoy problems where the challenge is not simply calling an LLM API, but designing the surrounding system — **state, memory, evaluation, orchestration, retrieval, observability, latency, and user experience**.
+interested_in:
+  - AI Engineering
+  - Agentic Systems
+  - AI Evaluation & Reliability
+  - Backend / Systems Engineering
+  - Applied Machine Learning
 
-Currently exploring how AI systems can become more **adaptive, reliable, evaluable, and useful in production**.
-
-```text
-Build → Evaluate → Understand Failure → Improve → Ship
+philosophy:
+  "Build → Measure → Understand → Improve → Ship"
 ```
 
+I’m a **Computer Science & Artificial Intelligence undergraduate at Plaksha University** interested in engineering AI systems that work beyond controlled demos.
+
+My work lies at the intersection of **LLM agents, evaluation, real-time AI, backend architecture, retrieval systems, and applied machine learning**.
+
+What interests me most isn't simply getting a model to generate the right response. It's designing everything around that model:
+
+> **state · memory · orchestration · evaluation · tools · latency · reliability · product experience**
+
+I like taking an idea from an architecture diagram to something people can actually use.
+
 ---
 
-## Featured Projects
+<div align="center">
+
+### `CURRENTLY BUILDING`
+
+```text
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   VERIQ        → Adaptive AI Interview Intelligence               │
+│   AGENTEVAL    → Failure Diagnosis for LLM Agents                 │
+│                                                                   │
+│   CURRENT      → AI Reliability · Real-Time Systems · Agents      │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `02. SELECTED WORK`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Veriq
+### ◈ Veriq
+#### AI Interview Intelligence
 
-**AI Interview Intelligence Platform**
+A real-time AI interviewer designed around **adaptive questioning, evidence collection, voice interaction and structured candidate evaluation**.
 
-A real-time AI interview system that conducts adaptive, voice-first interviews and evaluates candidates using multi-turn reasoning and evidence collection.
+Instead of following a fixed question bank, Veriq decides how deeply to explore a topic based on the evolving interview context.
 
-**Highlights**
+**Engineering**
 
-- Adaptive interview orchestration
-- Context-aware follow-up generation
-- Multi-turn claim verification
-- Evidence-grounded evaluation
+`LangGraph` `FastAPI` `Next.js`  
+`PostgreSQL` `Supabase` `Gemini`
+
+**Core systems**
+
+- Multi-stage interview orchestration
+- Context-aware follow-ups
+- Claim verification
 - Persistent interview state
-- Voice-first interaction
-- Resume / JD / role-aware interviews
+- Evidence-grounded scoring
+- Voice-first interviewing
 
-**Stack**
+<br/>
 
-`FastAPI` `LangGraph` `Next.js` `TypeScript` `PostgreSQL` `Supabase` `Gemini`
-
-<p>
-  <a href="https://github.com/Hitesh564/Veriq">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://veriq-flax.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Hitesh564/Veriq">
+<img src="https://img.shields.io/badge/SOURCE-111111?style=flat-square&logo=github&logoColor=C8A96B"/>
+</a>
+<a href="https://veriq-flax.vercel.app">
+<img src="https://img.shields.io/badge/LIVE-C8A96B?style=flat-square&logo=vercel&logoColor=111111"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔬 AgentEval
+### ◈ AgentEval
+#### Causal Failure Diagnosis for LLM Agents
 
-**Failure Diagnosis for LLM Agents**
+An evaluation system for understanding **why multi-step LLM-agent workflows fail**, rather than reporting only whether they succeeded.
 
-An evaluation framework for diagnosing failures in multi-step LLM-agent workflows using execution traces, dependency relationships, and structured health signals.
+It analyzes execution traces, node health and dependency relationships to identify likely failure contributors.
 
-**Highlights**
+**Engineering**
 
-- Trace-based agent evaluation
-- Dependency-aware root-cause analysis
-- Node-level failure diagnosis
+`Python` `FastAPI` `LangChain`  
+`PostgreSQL` `LiteLLM`
+
+**Evaluation**
+
+- Trace-based diagnosis
+- Dependency-aware attribution
 - Automated benchmarking
-- Failure attribution and remediation insights
-- External benchmark validation
+- Failure localization
+- Remediation insights
 
-**Results**
+**Benchmark**
 
-`73.3% Accuracy` · `76.2% Balanced Accuracy`
+`73.3% accuracy`  
+`76.2% balanced accuracy`
 
-**Stack**
+<br/>
 
-`Python` `FastAPI` `LangChain` `PostgreSQL` `LiteLLM`
-
-<p>
-  <a href="https://github.com/Hitesh564/AgentEval">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Hitesh564/AgentEval">
+<img src="https://img.shields.io/badge/SOURCE-111111?style=flat-square&logo=github&logoColor=C8A96B"/>
+</a>
 
 </td>
 </tr>
@@ -117,214 +170,201 @@ An evaluation framework for diagnosing failures in multi-step LLM-agent workflow
 
 ---
 
-## 🧠 Other Work
+## `03. RESEARCH × APPLIED ML`
 
-### Explainable Retinal Age Gap Prediction
+### ◈ Explainable Retinal Age Gap
 
-Built an explainable deep-learning pipeline for estimating biological retinal age using **RETFound / Vision Transformers**, vascular feature extraction, XGBoost, and SHAP.
+Built an explainable retinal-age estimation pipeline combining **RETFound / Vision Transformers, vascular biomarkers, XGBoost and SHAP**.
 
-Worked across **23K+ retinal images** from ODIR-5K and BRSET with preprocessing, vessel analysis, biomarker extraction, and interpretability.
+```text
+23K+ Retinal Images
+       │
+       ▼
+ Image Preprocessing
+       │
+       ├──── RETFound / ViT ──────────────┐
+       │                                   │
+       └──── Vessel Segmentation           │
+                    │                      │
+                    ▼                      │
+            Vascular Biomarkers            │
+                    │                      │
+                    ▼                      ▼
+                  XGBoost ───────────► Retinal Age
+                                      +
+                                   Explanation
+```
 
-`PyTorch` `ViT` `RETFound` `XGBoost` `SHAP` `OpenCV`
+`PyTorch` · `RETFound` · `OpenCV` · `XGBoost` · `SHAP`
 
 ---
 
-## ⚙️ What I Like Building
+## `04. ENGINEERING STACK`
+
+<div align="center">
+
+### Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
+
+`LLMs` · `LangChain` · `LangGraph` · `RAG` · `Hugging Face` · `Gemini` · `Agentic AI`
+
+<br/><br/>
+
+### Systems
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,supabase,docker&theme=dark"/>
+
+`REST` · `WebSockets` · `SQLModel` · `SQLAlchemy` · `Vector Search`
+
+<br/><br/>
+
+### Interface
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,html,css&theme=dark"/>
+
+<br/><br/>
+
+### Engineering
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,vercel&theme=dark"/>
+
+</div>
+
+---
+
+## `05. HOW I BUILD`
 
 ```mermaid
 flowchart LR
-    A["Real Problems"] --> B["System Design"]
-    B --> C["AI / ML"]
-    C --> D["Backend"]
-    D --> E["Evaluation"]
-    E --> F["Deployment"]
-    F --> G["Real Users"]
-
-    G --> H["Feedback"]
-    H --> B
+    P["Problem"] --> A["Architecture"]
+    A --> I["Intelligence"]
+    I --> S["System"]
+    S --> E["Evaluation"]
+    E --> D["Deploy"]
+    D --> O["Observe"]
+    O --> A
 ```
 
-My strongest interests are:
+The model is only one component.
 
-- 🤖 **LLM & Agentic Systems**
-- 🧠 **AI Evaluation & Reliability**
-- ⚡ **Real-Time AI Applications**
-- 🏗️ **Backend & System Architecture**
-- 🔎 **RAG & Retrieval Systems**
-- 🎙️ **Voice AI**
-- 📊 **Applied Machine Learning**
-- 🚀 **Zero-to-One Product Engineering**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,js,sql&theme=dark" />
-</p>
-
-### AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-</p>
-
-`LangChain` · `LangGraph` · `Hugging Face` · `Gemini` · `RAG` · `LLM Agents` · `Scikit-learn` · `XGBoost` · `SHAP`
-
-### Backend & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,supabase,docker&theme=dark" />
-</p>
-
-`REST APIs` · `WebSockets` · `SQLModel` · `SQLAlchemy` · `Vector Search`
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,html,css&theme=dark" />
-</p>
-
-### Developer Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-</p>
-
----
-
-## 🧩 How I Think About AI Products
+A production AI system also needs:
 
 ```text
-                   ┌────────────────────┐
-                   │      USER NEED     │
-                   └─────────┬──────────┘
-                             │
-                             ▼
-                   ┌────────────────────┐
-                   │   PRODUCT LOGIC    │
-                   └─────────┬──────────┘
-                             │
-               ┌─────────────┴─────────────┐
-               ▼                           ▼
-       ┌───────────────┐           ┌───────────────┐
-       │  AI / AGENTS  │           │   BACKEND     │
-       └───────┬───────┘           └───────┬───────┘
-               │                           │
-               └─────────────┬─────────────┘
-                             ▼
-                   ┌────────────────────┐
-                   │ STATE / MEMORY / DB│
-                   └─────────┬──────────┘
-                             ▼
-                   ┌────────────────────┐
-                   │    EVALUATION      │
-                   └─────────┬──────────┘
-                             ▼
-                   ┌────────────────────┐
-                   │  OBSERVE & IMPROVE │
-                   └────────────────────┘
-```
-
-A good AI product is rarely just the model.
-
-The interesting engineering is usually everything around it:
-
-**context → state → orchestration → tools → evaluation → latency → reliability → UX**
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Hitesh564&show_icons=true&hide_border=true&rank_icon=github"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh564&layout=compact&hide_border=true&langs_count=8"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh564&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🚀 Current Focus
-
-```yaml
-currently_building:
-  - AI interview intelligence
-  - LLM agent evaluation systems
-  - production-grade AI applications
-
-learning_deeper:
-  - agent reliability
-  - real-time AI systems
-  - scalable backend architecture
-  - AI evaluation
-  - system design
-
-interested_in:
-  - AI / ML Engineering
-  - Software Engineering
-  - Applied AI Research
-  - Agentic Systems
+                        AI PRODUCT
+                            │
+           ┌────────────────┼────────────────┐
+           │                │                │
+           ▼                ▼                ▼
+      INTELLIGENCE        SYSTEM          PRODUCT
+           │                │                │
+       Models / LLM      State / DB       UX / Latency
+       Retrieval         APIs             Feedback
+       Reasoning         Memory           Reliability
+           │                │                │
+           └────────────────┼────────────────┘
+                            │
+                            ▼
+                       EVALUATION
 ```
 
 ---
 
-## 💡 Engineering Principles
+## `06. CURRENT EXPLORATIONS`
 
-> **Build systems, not wrappers.**
+```diff
++ LLM agent evaluation & reliability
++ Stateful and adaptive AI systems
++ Real-time voice intelligence
++ Retrieval & context engineering
++ Production LLM architecture
++ System design for AI products
 
-> **Evaluate AI instead of assuming it works.**
-
-> **Understand failure modes before scaling.**
-
-> **Ship something people can actually use.**
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in conversations around:
-
-- AI engineering
-- agent architectures
-- LLM evaluation
-- applied ML
-- research-to-product work
-- interesting engineering problems
-
-<p align="center">
-  <a href="mailto:jindalhitesh564@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jindalhitesh564%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/hitesh-jindal56/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hitesh_Jindal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Hitesh564">
-    <img src="https://img.shields.io/badge/GitHub-Hitesh564-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+> Going deeper:
+  distributed systems
+  backend scalability
+  AI observability
+  agent failure analysis
+```
 
 ---
 
-<p align="center">
-  <i>Learning by building. Improving by evaluating. Shipping by iterating.</i>
-</p>
+## `07. GITHUB`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" />
-</p>
+<div align="center">
+
+<img height="175"
+src="https://github-readme-stats.vercel.app/api?username=Hitesh564&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C8A96B&icon_color=C8A96B&text_color=D6D6D6&ring_color=C8A96B"/>
+
+<img height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh564&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C8A96B&text_color=D6D6D6"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh564&bg_color=0D0D0D&color=C8A96B&line=C8A96B&point=F4E5C2&area=true&hide_border=true"
+width="96%"
+/>
+
+</div>
+
+---
+
+## `08. PRINCIPLES`
+
+<div align="center">
+
+### `BUILD SYSTEMS — NOT WRAPPERS.`
+
+**Measure what the AI does.**  
+**Understand how it fails.**  
+**Design for uncertainty.**  
+**Ship what people can actually use.**
+
+</div>
+
+---
+
+## `09. OPEN CHANNEL`
+
+<div align="center">
+
+Interested in **AI systems, agents, evaluation, ML engineering, or building ambitious software?**
+
+<br/>
+
+<a href="mailto:jindalhitesh564@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-E8D7B0?style=for-the-badge&logo=gmail&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hitesh-jindal56/">
+<img src="https://img.shields.io/badge/LINKEDIN-E8D7B0?style=for-the-badge&logo=linkedin&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+</a>
+
+<a href="https://github.com/Hitesh564">
+<img src="https://img.shields.io/badge/GITHUB-E8D7B0?style=for-the-badge&logo=github&logoColor=E8D7B0&labelColor=111111&color=242424"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hitesh564&label=VISITORS&color=C8A96B&style=flat-square"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+INTELLIGENCE × ENGINEERING × EXECUTION
+```
+
+<i>Learning by building. Improving by measuring. Shipping by iterating.</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1c1812,45:111111,100:090909"/>
